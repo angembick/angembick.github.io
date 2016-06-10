@@ -18,7 +18,7 @@ h3{
 #my-nav {
 	background-color: rgba(136,131,120, .85);
 	width: 100%;
-	height: 60px;
+	height: 40px;
 	padding-top: 10px;
 	position: fixed ;
 	text-align: center;
@@ -30,8 +30,8 @@ h3{
 }
 #my-nav a{
 	color: #404040;
-	font-size: 25px;
-	margin:0px 15px 0px 15px;
+	font-size: 15px;
+	margin:0px 10px 0px 10px;
 }
 .navbar-right{
 	margin-right: 30px !important;
@@ -51,8 +51,8 @@ h3{
 }
 
 #welcome-initials{
-	width:80px;
-	height: 50px;
+	width:60px;
+	height: 30px;
 	border-radius: 50%;
 	border-color: #000000;
 	border-style: solid;
